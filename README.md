@@ -1,2 +1,5 @@
 # MqttWinClient
-MQTT windows client
+
+
+MQTT client for windows. For testing purposes and a bit more
+
